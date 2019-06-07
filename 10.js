@@ -6,3 +6,5 @@ function lit(){
     console.log(matrix)
     return matrix;
 }
+
+//w网上查的，我觉得以后用再查

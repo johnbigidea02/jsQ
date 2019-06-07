@@ -7,6 +7,7 @@ function lit(x){
         }
 
     }
+    //遍历找到最大
     console.log(max);
 
 }

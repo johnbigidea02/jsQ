@@ -1,3 +1,5 @@
+
+//5题和7题我写反了
 function lit(x){
     var vmy = 0;
     x = x.split('');

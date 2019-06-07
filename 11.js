@@ -12,7 +12,8 @@ function lit(x){
         }
     }
 
-    console.log(x[1])
+    console.log(x[1]) //冒泡排序后 找位置在第二和倒数第二的
+
     console.log(x[x.length-2])
 }
 

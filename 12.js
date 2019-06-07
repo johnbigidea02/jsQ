@@ -3,12 +3,12 @@ function lit(x){
     for(var i  = 1; i <x;i++){
         if(x%i === 0 ){
             sum+=i
-        }
+        }// 是因数就加一起
     }
-    console.log(sum)
+
     if(sum === x){
         console.log('yes')
-    }
+    } //判断是否完美
 
 }
 
